@@ -1,0 +1,5 @@
+fastapi==0.143.3
+uvicorn[standard]==0.41.0
+SQLAlchemy==2.0.54
+PyJWT==2.3.0
+email-validator==2.3.0
